@@ -65,3 +65,4 @@ Further Information
 -------------------
 
 http://www.willmcgugan.com/tag/fs/
+Join the chat at https://gitter.im/ctismer/pyfilesystem
